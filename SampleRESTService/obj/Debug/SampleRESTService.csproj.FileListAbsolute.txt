@@ -1,0 +1,4 @@
+E:\Projects\proof-of-concepts\SampleRESTService\SampleRESTService\bin\SampleRESTService.dll
+E:\Projects\proof-of-concepts\SampleRESTService\SampleRESTService\bin\SampleRESTService.pdb
+E:\Projects\proof-of-concepts\SampleRESTService\SampleRESTService\obj\Debug\SampleRESTService.dll
+E:\Projects\proof-of-concepts\SampleRESTService\SampleRESTService\obj\Debug\SampleRESTService.pdb
